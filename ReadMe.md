@@ -1,5 +1,5 @@
 # 👀 Sobre mim:
-Oi eu me chamo Caio Reis.<br>Estudante de programação.<br>18 anos.
+Oi eu me chamo Caio Reis.<br>Cursando ADS.<br>18 anos.
 
 
 ##  Redes Sociais:
