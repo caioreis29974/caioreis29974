@@ -1,6 +1,10 @@
 # 👀 Sobre mim:
 Oi eu me chamo Caio Reis.<br>Cursando ADS.<br>18 anos.
 
+#
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Uninassau. Atualmente estudo Python.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+#
 
 ##  Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Caio.xyz_) 
@@ -23,13 +27,21 @@ Oi eu me chamo Caio Reis.<br>Cursando ADS.<br>18 anos.
 ### Outros
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-# Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=caioreis29974&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=caioreis29974&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=caioreis29974&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caioreis29974&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-### Repositórios Mais Contribuídos:
-![](https://github-contributor-stats.vercel.app/api?username=caioreis29974&limit=5&theme=neon&combine_all_yearly_contributions=true)
+  <a href="https://github.com/caioreis29974/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioreis29974&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=caioreis29974&icon=9&color=11)](https://visitcount.itsvg.in)
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioreis29974/caioreis29974/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioreis29974/caioreis29974/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caioreis29974/caioreis29974/output/github-contribution-grid-snake.svg">
+</picture>
