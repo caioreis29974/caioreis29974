@@ -32,7 +32,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ## My Music Vibe
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31brorqkbwktkohgi4ydasfsnnbq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brorqkbwktkohgi4ydasfsnnbq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=001eff&bar_color_cover=true" alt="Spotify Profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brorqkbwktkohgi4ydasfsnnbq&cover_image=true&theme=Natemoo-re theme&show_offline=false&background_color=000000&interchange=true&bar_color=001eff&bar_color_cover=true" alt="Spotify Profile">
   </a>
 </div>
 
@@ -40,7 +40,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <h3> GitHub Stats </h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caioreis29974&hide_title=true&show_icons=true&include_all_commits=false&count_private=false&line_height=25&hide=issues&border_radius=3&border_color=0366d6&theme=github_dark" alt="GitHub stats">
-github_dark
   <a href="https://github.com/caioreis29974/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioreis29974&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=false&langs_count=4&show_icons=true&count_private=true&border_color=0366d6&theme=github_dark" alt="Most Used Languages">
   </a>
