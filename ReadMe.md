@@ -8,7 +8,6 @@
   <img src="./assets/banner.png" alt="Caio Reis - GitHub Banner">
 </p>
 
-#
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas na Uninassau. Atualmente estudo Python.<br>
   Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.<br>
