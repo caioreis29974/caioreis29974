@@ -1,9 +1,6 @@
-# 👀 Sobre mim:
-Oi eu me chamo Caio Reis.<br>Cursando ADS.<br>18 anos.
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=#0000FF&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
 </div>
 
