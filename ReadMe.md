@@ -29,12 +29,12 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ### Outros
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-## My Music Vibe
+<!-- ## My Music Vibe
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31brorqkbwktkohgi4ydasfsnnbq&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brorqkbwktkohgi4ydasfsnnbq&cover_image=true&theme=Natemoo-re theme&show_offline=false&background_color=000000&interchange=true&bar_color=001eff&bar_color_cover=true" alt="Spotify Profile">
   </a>
-</div>
+</div> -->
 
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats </h3>
