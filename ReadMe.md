@@ -24,6 +24,9 @@
   <h3>My Stack ~</h3>
 
   <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,express,mysql,django" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,discord,vercel,netlify,npm,windows" />
+  
 </div>
 
 #
