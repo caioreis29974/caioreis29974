@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na Uninassau. Atualmente estudo Python.<br>
-  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.<br>
-  Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  Student of Systems Analysis and Development at Uninassau. I am currently studying Python.
+I am constantly updating my knowledge and seeking new challenges in the technology field.
+I have a passion for learning and applying this knowledge to create innovative solutions.
 </p>
 
 #
