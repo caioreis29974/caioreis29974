@@ -23,7 +23,7 @@ I have a passion for learning and applying this knowledge to create innovative s
 
   <h3>My Stack ~</h3>
 
-  <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,express,mysql,django" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,html,css,express,mysql,django,mongodb" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,discord,vercel,netlify,npm,windows" />
   
