@@ -18,8 +18,9 @@ I have a passion for learning and applying this knowledge to create innovative s
 <div align="center">
   <h3>Connect with me!</h3>
 
-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:caioreis29974@gmail.com)
+  [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff&color=000000)](mailto:caioreis29974@gmail.com)
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/caio.xyz_)
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/dev-caio-reis/)
 
   <h3>My Stack ~</h3>
 
