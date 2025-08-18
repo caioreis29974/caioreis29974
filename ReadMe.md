@@ -33,11 +33,6 @@ I have a passion for learning and applying this knowledge to create innovative s
 #
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats </h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caioreis29974&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&line_height=25&hide=issues&border_radius=3&border_color=0366d6&theme=github_dark" alt="GitHub stats">
-  <a href="https://github.com/caioreis29974/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioreis29974&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=false&langs_count=4&show_icons=true&count_private=true&border_color=0366d6&theme=github_dark" alt="Most Used Languages">
-  </a>
 </div>
 
 <div align="center">
