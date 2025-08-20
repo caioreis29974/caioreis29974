@@ -33,6 +33,7 @@ I have a passion for learning and applying this knowledge to create innovative s
 #
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats </h3>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=caioreis29974&theme=github_dark&rank_icon=github&title_color=0047be&color=E3E3E3&text_color=DEDEDE&hide_border=true&show_icons=true"/>
 </div>
 
 <div align="center">
