@@ -24,7 +24,7 @@ I have a passion for learning and applying this knowledge to create innovative s
 
   <h3>My Stack ~</h3>
 
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,html,css,python,express,mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,html,css,python,java,express,mysql,mongodb,sqlite" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,discord,vercel,netlify,npm,windows" />
   
