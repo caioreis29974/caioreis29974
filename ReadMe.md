@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  Student of Systems Analysis and Development at Uninassau. I am currently studying Node.js / Javascript.<br>
-I am constantly updating my knowledge and seeking new challenges in the technology field.<br>
-I have a passion for learning and applying this knowledge to create innovative solutions.
+    Estudante de Análise e Desenvolvimento de Sistemas na Uninassau<br>
+    Estou em constante atualização e buscando novos desafios na área de tecnologia.<br>
+    Tenho paixão por aprender e aplicar esse conhecimento para criar soluções inovadoras.<br>
+    <code>console.log("A essência é o aprendizado contínuo.");</code>
 </p>
 
 #
