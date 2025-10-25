@@ -12,7 +12,7 @@
     Estudante de Análise e Desenvolvimento de Sistemas na Uninassau<br>
     Estou em constante atualização e buscando novos desafios na área de tecnologia.<br>
     Tenho paixão por aprender e aplicar esse conhecimento para criar soluções inovadoras.<br>
-    <code>console.log("A essência é o aprendizado contínuo.");</code>
+    <code>System.out.println("A essência é o aprendizado contínuo.");</code>
 </p>
 
 #
