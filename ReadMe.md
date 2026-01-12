@@ -27,7 +27,7 @@
 
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,javascript,react,html,css,python,express,mysql,sqlite" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,neovim,vim,vscode,powershell,vercel,netlify,npm,linux,windows,obsidian" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,neovim,vim,vscode,powershell,vercel,netlify,npm,linux,windows,obsidian" />
   
 </div>
 
